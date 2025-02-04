@@ -9,7 +9,7 @@
 
 ! XTERM COLORS & FONTS
 ! !-----------------------------------------------
-  XTerm.vt100.foreground: gray
+  XTerm.vt100.foreground: grey
   XTerm.vt100.background: rgb:14/14/14
   XTerm.vt100.color0: rgb:36/39/79
   XTerm.vt100.faceName: CaskaydiaMono Nerd Font
@@ -40,5 +40,5 @@
   Ctrl <Key>-: smaller-vt-font() \n\
   Ctrl <Key>+: larger-vt-font() \n\
   Ctrl <Key>0: set-vt-font(d) \n\
-  Ctrl Alt <Key>c: copy-selection(CLIPBOARD) \n\
-  Ctrl Alt <Key>v: insert-selection(CLIPBOARD)
+  Ctrl Shift <Key>c: copy-selection(CLIPBOARD) \n\
+  Ctrl Shift <Key>v: insert-selection(CLIPBOARD)
