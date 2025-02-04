@@ -11,4 +11,4 @@ Then, add this to your .xinitrc file:
 xrdb -load $HOME/.config/xterm/Xresources 
 ```
 > [!IMPORTANT]
-> Add line at the beginning of the file.
+> If the file has content, then add it to the beginning.
