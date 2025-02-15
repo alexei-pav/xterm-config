@@ -1,6 +1,10 @@
 # xterm-config
 Configuration for XTerm terminal emulator
 
+## Requirements
+ - CommitMono Nerd Font (but you can change it in Xresourses file)
+ - XTerm Terminal Emulator
+
 ## Installation 
 First, type this:
 ```shell
